@@ -1,0 +1,57 @@
+﻿@model OnionArchitecture.DataAccess.ViewModels.CustomLogViewModel.CustomLogViewModel
+
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detail</h1>
+
+<div>
+    <h4>CustomLog</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LogType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LogType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Message1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Message1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Message2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Message2)
+        </dd>
+        
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CreatedTime)
+        </dd>
+       
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

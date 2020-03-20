@@ -1,0 +1,9 @@
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.deps.json
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.csprojAssemblyReference.cache

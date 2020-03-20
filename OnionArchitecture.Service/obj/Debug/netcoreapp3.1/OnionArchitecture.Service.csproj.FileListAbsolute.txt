@@ -1,0 +1,14 @@
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.Service.deps.json
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.Service.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.Service.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.DataAccess.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.DataAccess.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\bin\Debug\netcoreapp3.1\OnionArchitecture.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.csprojAssemblyReference.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.csproj.CopyComplete
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Service\obj\Debug\netcoreapp3.1\OnionArchitecture.Service.pdb

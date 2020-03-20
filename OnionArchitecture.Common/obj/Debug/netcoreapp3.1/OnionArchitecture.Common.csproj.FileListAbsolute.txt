@@ -1,0 +1,9 @@
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\bin\Debug\netcoreapp3.1\OnionArchitecture.Common.deps.json
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\bin\Debug\netcoreapp3.1\OnionArchitecture.Common.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\bin\Debug\netcoreapp3.1\OnionArchitecture.Common.pdb
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.csprojAssemblyReference.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.dll
+C:\Users\Ali Taheri\source\repos\BaseProject\OnionArchitecture.Common\obj\Debug\netcoreapp3.1\OnionArchitecture.Common.pdb

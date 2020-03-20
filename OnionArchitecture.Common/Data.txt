@@ -1,0 +1,6 @@
+ => from main project
+ 
+           dotnet ef migrations add Initial  -o ../OnionArchitecture.DataAccess/Data/Migrations 
+                    -c ApplicationDbContext  --startup-project ../OnionArchitecture/
+
+          dotnet ef database update   -c ApplicationDbContext  --startup-project ../OnionArchitecture/
